@@ -50,8 +50,12 @@ symbolizing grounding, focus, and upward energy.
 ## 📁 Featured Projects
 - **Breath‑Cycle Analytics:** Modeling rhythmic patterns in wellness data  
 - **Mindful Metrics Dashboard:** Visualizing stress, focus, and recovery  
-- **Embodied Data Art:** Turning movement into mathematical form  
+- **Embodied Data Art:** Turning movement into mathematical form
+
+ 
 
 ---
 
 ## 🌄 “Steadiness of mind is the foundation of insight.”  
+
+
