@@ -59,41 +59,11 @@ A certified Registered Yoga Teacher by Yoga Alliance (2026), rooted with Ashtang
 
 
 ---
+## 🧠 Core Skills — Roadmap
 
-## 🧠 Core Skills Network
-
-> All skills converge toward one goal — **Business Analyst**
-
-| 📊 Data Analysis | 🧩 Business Analysis | ⚙️ Technical |
-|---|---|---|
-| Excel — Pivot Tables, XLOOKUP, Dashboards | Requirements Gathering & User Stories | ERP / SAP Systems |
-| SQL — Joins, Aggregations, Extraction | Stakeholder Communication & Alignment | APIs & System Integration |
-| Visualization — Tableau & Power BI | Process Mapping: AS-IS → TO-BE · Gap Analysis | Data Structures & Schemas |
-
-
-## 📊 Core Skills
-
-### 📌 Data Analysis
-- **Excel (Advanced)** → Pivot Tables, XLOOKUP, Dashboards  
-- **SQL** → Joins, Aggregations, Data Extraction  
-- **Visualization** → Tableau & Power BI  
-
----
-
-### 📌 Business Analysis
-- Requirements Gathering  
-- Stakeholder Communication  
-- Process Mapping (AS-IS → TO-BE)  
-- Gap Analysis  
-- User Stories  
-
----
-
-### 📌 Technical Knowledge
-- ERP-SAP (Enterprise Resource Planning)  
-- APIs & System Integration Basics   
-- Data Structures & Relationships  
-
+<p align="center">
+  <img src="./skills-network.svg" alt="BA Skills Tree" width="100%"/>
+</p>
 ---
 
 ## 📁 Featured Projects
