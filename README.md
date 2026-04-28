@@ -3,6 +3,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:34d399&height=200&section=header&text=Soniya%20Khadgi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+
+
+<div align="center">
+
+# <span style="letter-spacing: 6px;">PRESENCE</span>
+
+### <i>Rooted in Stillness · Open To ALL.</i>
+
+</div>
+
+<p align="center">
+  <sub>
+    Where stillness breathes, energy flows, and all beings are welcomed.
+  </sub>
+</p>
+<p align="center">
+  <img src="picture.png" alt="Project image" width="900" />
+</p>
+
+
 <h3 align="center">💼 Business Analyst | 📊 Data Analyst | 🔍 Turning Data into Decisions | Yoga Practitioner</h3>
 
 ---
