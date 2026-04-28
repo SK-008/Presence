@@ -25,6 +25,7 @@
 
 <h3 align="center">💼 Business Analyst | 📊 Data Analyst | 🔍 Turning Data into Decisions | Yoga Practitioner</h3>
 
+
 ---
 
 ## 🚀 About Me
