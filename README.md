@@ -87,50 +87,6 @@ A certified Registered Yoga Teacher by Yoga Alliance (2026), rooted with Ashtang
 </p>
 ---
 
-## 📁 Featured Projects
-
-### 📊 Sales Dashboard
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/dashboard.png" width="700"/>
-</p>
-
----
-
-### 🧠 SQL Data Analysis
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/sql.png" width="700"/>
-</p>
-
----
-
-### ⚙️ Process Optimization
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/process.png" width="700"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
 
 ## ⚡ Final Thought
 
