@@ -87,7 +87,19 @@ A certified Registered Yoga Teacher by Yoga Alliance (2026), rooted with Ashtang
 </p>
 ---
 
+## Creativity - Using flaticon for icons to use in presentations
 
+
+<p align="center">
+<img width="512" height="512" alt="check" src="https://github.com/user-attachments/assets/3e1866c3-6f88-4b64-b2fe-58b78a1116ea" />
+
+
+<img width="512" height="512" alt="ninja-2" src="https://github.com/user-attachments/assets/1cd3dafe-d443-4c1d-a1be-25f2bac6c4d0" />
+
+
+
+</p>
+  ----
 ## ⚡ Final Thought
 
 <p align="center">
